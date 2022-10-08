@@ -80,7 +80,7 @@
 		"REACT_EMOJI": {
 			"description": "Enter A Emoji For Menu React",
 			"required": true,
-			"value": "🇮🇳"
+			"value": "🐻"
 		},
 		"OWNER_TAG": {
 			"description": "Enter Your Number For Owner Tag",
